@@ -3,6 +3,8 @@ class Manish10
 	public static void main(String args[])
 	{
 		System.out.println("Chocalate Boy: Manish");
+		System.out.println(" Manish");
+
 	}
 }
 
